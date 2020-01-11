@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("Git Testing")
 
         print("Second Commit")
+        print("This is my second commite")
         //
 
         // Do any additional setup after loading the view.
